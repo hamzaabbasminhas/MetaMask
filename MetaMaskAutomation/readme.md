@@ -13,7 +13,7 @@
 **To run the project**
 
 1. Clone this repo
-2. Navigate to root folder
+2. Navigate to root folder i.e to the MetaMaskAutomation Folder
 3. pip3 install -r requirements.txt
 
 
