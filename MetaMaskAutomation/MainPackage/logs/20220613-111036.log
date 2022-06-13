@@ -1,0 +1,17 @@
+13/06/22 11:10:36 AM Monday - classObjects - INFO : Get All Window Handles
+13/06/22 11:10:36 AM Monday - classObjects - INFO : Close Extra Tab
+13/06/22 11:10:36 AM Monday - classObjects - INFO : Switch Control to MetaMask Tab
+13/06/22 11:10:36 AM Monday - classObjects - INFO : Click on Get Started Button
+13/06/22 11:10:42 AM Monday - classObjects - INFO : Click On Import Wallet Button
+13/06/22 11:10:42 AM Monday - classObjects - INFO : Click on No thanks Button
+13/06/22 11:10:43 AM Monday - classObjects - INFO : Copy Recovery Phase to clipboard
+13/06/22 11:10:43 AM Monday - classObjects - INFO : Paste The recovery phrase in recovery phrase field
+13/06/22 11:10:45 AM Monday - classObjects - INFO : Enter Password in password field
+13/06/22 11:10:47 AM Monday - classObjects - INFO : Enter Password in confirm password field
+13/06/22 11:10:48 AM Monday - classObjects - INFO : Accept Terms and Conditions
+13/06/22 11:10:49 AM Monday - classObjects - INFO : Click on Import Button
+13/06/22 11:10:49 AM Monday - classObjects - INFO : Click on All done Button
+13/06/22 11:10:54 AM Monday - classObjects - INFO : Click on cross button of popover
+13/06/22 11:10:55 AM Monday - classObjects - INFO : Click On Ethereum Mainnet button
+13/06/22 11:10:56 AM Monday - classObjects - INFO : Click on Show/Hide Button
+13/06/22 11:10:56 AM Monday - classObjects - INFO : Turn on Test Network Switch

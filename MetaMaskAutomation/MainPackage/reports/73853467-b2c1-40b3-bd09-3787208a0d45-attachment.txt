@@ -1,0 +1,25 @@
+[32mINFO    [0m setup:conftest.py:17 Remove all old Logs and Reports
+[32mINFO    [0m setup:conftest.py:25 Add Meta Mask Extension to chrome
+[32mINFO    [0m WDM:logger.py:26 
+
+[32mINFO    [0m WDM:logger.py:26 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:26 Current google-chrome version is 102.0.5005
+[32mINFO    [0m WDM:logger.py:26 Get LATEST chromedriver version for 102.0.5005 google-chrome
+[32mINFO    [0m WDM:logger.py:26 Driver [/Users/hamzaabbas/.wdm/drivers/chromedriver/mac64/102.0.5005.61/chromedriver] found in cache
+[32mINFO    [0m classObjects:test_importWallet.py:27 Get All Window Handles
+[32mINFO    [0m classObjects:test_importWallet.py:33 Close Extra Tab
+[32mINFO    [0m classObjects:test_importWallet.py:36 Switch Control to MetaMask Tab
+[32mINFO    [0m classObjects:test_importWallet.py:39 Click on Get Started Button
+[32mINFO    [0m classObjects:test_importWallet.py:42 Click On Import Wallet Button
+[32mINFO    [0m classObjects:test_importWallet.py:45 Click on No thanks Button
+[32mINFO    [0m classObjects:test_importWallet.py:50 Copy Recovery Phase to clipboard
+[32mINFO    [0m classObjects:test_importWallet.py:53 Paste The recovery phrase in recovery phrase field
+[32mINFO    [0m classObjects:test_importWallet.py:56 Enter Password in password field
+[32mINFO    [0m classObjects:test_importWallet.py:59 Enter Password in confirm password field
+[32mINFO    [0m classObjects:test_importWallet.py:62 Accept Terms and Conditions
+[32mINFO    [0m classObjects:test_importWallet.py:65 Click on Import Button
+[32mINFO    [0m classObjects:test_importWallet.py:68 Click on All done Button
+[32mINFO    [0m classObjects:test_importWallet.py:71 Click on cross button of popover
+[32mINFO    [0m classObjects:test_importWallet.py:77 Click On Ethereum Mainnet button
+[32mINFO    [0m classObjects:test_importWallet.py:80 Click on Show/Hide Button
+[32mINFO    [0m classObjects:test_importWallet.py:83 Turn on Test Network Switch

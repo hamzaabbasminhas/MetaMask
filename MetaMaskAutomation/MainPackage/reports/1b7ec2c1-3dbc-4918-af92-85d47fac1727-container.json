@@ -1,0 +1,1 @@
+{"uuid": "4fb07c00-f518-4788-96c6-a80a7626eead", "children": ["870f097c-f17e-4cfb-b1ca-4b1382dbaccd"], "befores": [{"name": "classObjects", "status": "passed", "steps": [{"name": "Check Price of Cart Test Started", "status": "passed", "start": 1655100636714, "stop": 1655100636714}], "start": 1655100636713, "stop": 1655100636715}], "start": 1655100636713, "stop": 1655100656697}
