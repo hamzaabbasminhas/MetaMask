@@ -6,7 +6,7 @@
 * Tests will run and pass in the Chrome browser only condition is you should be using the latest chrome version on your PC.
 * It is built with the page object model
 * Helper methods are implemented for page interactions like click, sendkeys.
-* Built-in according to data-driven testing principles i.e all data is extracted from an external source and can run on multiple test scenarios.
+* Built according to data-driven testing principles i.e all data is extracted from an external source and can run on multiple test scenarios.
 * The code first installs MetaMask extension to the driver instance of chrome and afterward imports Metamask wallet successfully. The GIF, at the top shows the video of the code execution.
 
 
