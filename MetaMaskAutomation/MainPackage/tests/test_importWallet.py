@@ -90,7 +90,7 @@ class Test_importWallet(BaseClass):
             self.log.info("Take screenshot of failed scenario")
 
             self.takeScreenshot()
-            cl.allureLogs("Error occurred in Verifying order creation test")
+            cl.allureLogs("Error occurred in Verifying Import Wallet test")
 
             self.log.info(str(e))
             self.assertTrue(False, "Test Case Failed")
