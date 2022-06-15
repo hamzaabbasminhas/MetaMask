@@ -21,5 +21,5 @@
    py.test --alluredir=./MainPackage/reports
 
 6. To view reports
-   allure serve <Path to root Folder>/MetaMaskAutomation/MainPackage/reports
+   allure serve *Path to root Folder*/MetaMaskAutomation/MainPackage/reports
 
