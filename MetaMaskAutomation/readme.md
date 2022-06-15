@@ -15,11 +15,11 @@
 1. Clone this repo
 2. Navigate to root folder i.e to the MetaMaskAutomation Folder
 3. pip3 install -r requirements.txt
+4. pip3 install allure-pytest
 
-
-4. To run test cases
+5. To run test cases
    py.test --alluredir=./MainPackage/reports
 
-5. To view reports
+6. To view reports
    allure serve <Path to root Folder>/MetaMaskAutomation/MainPackage/reports
 
