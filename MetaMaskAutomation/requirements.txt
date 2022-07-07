@@ -7,3 +7,4 @@ requests==2.26.0
 selenium==4.2.0
 webdriver_manager==3.5.2
 wget==3.2
+allure-pytest==2.9.45
