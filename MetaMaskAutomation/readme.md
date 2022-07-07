@@ -7,9 +7,9 @@
 * The framework is built with the page object model i.e a design pattern, in which an Object Repository contains all web UI elements
 * Helper methods are implemented in a separate class for all kinds of page interactions like click, sendkeys.
 * Built according to data-driven testing principles i.e all data is extracted from an external source and can run on multiple test scenarios.
-* For reporting allure-reporting tool is used. A report is generated in reports module inside the project.
-* Proper logging mechanism is implemented. Each step in test run is logged and logs are then integrated in the genenrated report.
-* The code first installs MetaMask extension to the driver instance of chrome and afterward imports Metamask wallet successfully. The GIF, at the top shows the video of the code execution.
+* For reporting allure-reporting tool is used. A report is generated in reports module inside the project after the test execution is completed
+* Proper logging and screenshot on failure mechanism is implemented. Each step while the test runs is logged and logs and screenshots are then integrated with the reports.
+* This project contains automation of importing wallet in MetaMask extension. The test first installs MetaMask extension to the driver instance of chrome and afterward imports Metamask wallet successfully. The GIF, at the top shows the video of the code execution.
 
 
 **To run the project**
